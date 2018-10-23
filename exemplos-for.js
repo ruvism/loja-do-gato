@@ -40,4 +40,6 @@ function getProducts(){
 
 console.log("get product", getProducts([2]));
 
+console.log();
+
 
