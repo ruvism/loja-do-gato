@@ -15,7 +15,7 @@ data["items"].forEach(function(item) {
 
     // console.log("cansei", data["items"][i]);
 
-    //console.log("index", data["items"][2])
+    console.log("index", data["items"][2])
 
 //map para trazer
 
